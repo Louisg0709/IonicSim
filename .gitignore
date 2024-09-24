@@ -2,4 +2,4 @@ build
 CMakePresets.JSON
 vcpkg.JSON
 vcpkg-configuration.JSON
-
+.vs
